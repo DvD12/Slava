@@ -1,1 +1,1 @@
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (app preferences (like theme, etc.) and alarms) created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+I hereby state, to the best of my knowledge, that I haven't programmed this app to collect any personally identifiable information. No data can be created by the user and no personally identifiable data is stored in the app or the device.
